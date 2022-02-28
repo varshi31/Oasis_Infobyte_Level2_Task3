@@ -1,6 +1,5 @@
 ﻿:root {
-    --pink: #EC4899;
-    --purple: #8B5CF6;
+    --black:black;
 }
 
 * {
@@ -59,7 +58,7 @@ input, button {
     color: whi;
     font-size: 1.25rem;
     font-weight: 700;
-    background-image: linear-gradient(to right, var(--pink), var(--purple));
+    background-image: linear-gradient(to right, var(--black), var(--black));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     cursor: pointer;
